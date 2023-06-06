@@ -66,7 +66,7 @@ Navegue pela documentação completa da [Referência de JavaScript](/pt-BR/docs/
 - [Instruções e declarações](/pt-BR/docs/Web/JavaScript/Reference/Statements)
   - : Saiba como {{jsxref("Statements/do...while", "do-while")}}, {{jsxref("Statements/for...in", "for-in")}}, {{jsxref("Statements/for...of", "for-of")}}, {{jsxref("Statements/try...catch", "try-catch")}}, {{jsxref("Statements/let", "let")}}, {{jsxref("Statements/var", "var")}}, {{jsxref("Statements/const", "const")}}, {{jsxref("Statements/if...else", "if-else")}}, {{jsxref("Statements/switch", "switch")}} e outras instruções e palavras-chave do JavaScript funcionam.
 - [Funções](/pt-BR/docs/Web/JavaScript/Reference/Functions)
-  - : Aprenda como trabalhar com funções em JavaScript para desenvolver suas aplicações.
+  - : Aprenda como trabalhar com as funções em JavaScript para desenvolver suas aplicações.
 
 ## Ferramentas & recursos
 
